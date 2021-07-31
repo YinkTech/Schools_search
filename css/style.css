@@ -29,6 +29,18 @@
   display: block;
 }
 
+.first-arct {
+  background:rgb(214, 109, 109);
+}
+
+.first-arct-img {
+  width: 50%;
+}
+
+.sec-arct{
+  background: rgb(107, 105, 105);
+}
+
 @media (min-width: 768px) and (max-width: 1023px) {
   .first-content-text {
     font-size: 30px;
@@ -40,15 +52,25 @@
     font-size: 20px;
 		font-weight: bolder;
 	}
+	
+	.first-arct-img {
+		width: 100%;
+		
+	}
+	
 }
 @media only screen and (min-width: 1024px) {
 	.first-content {
-		height: 400px;
+		height: 470px;
 		color: #fff;
 	}
 
+	.first-arct-img {
+		width: 60%;
+	}
+
 	.first-content-text {
-		padding-top: 60px;
+		padding-top: 120px;
 	}
   .first-content-text {
     font-size: 40px;

@@ -10,7 +10,7 @@
 * CSS
 * Bootstrap
 
-<!-- ### Live Demo -->
+### Live Demo
 
 [Live Demo link](https://yinktech.github.io/Schools_search/) 
 
