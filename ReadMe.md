@@ -12,7 +12,7 @@
 
 <!-- ### Live Demo -->
 
-<!-- [Live Demo link](https://myprojectusermetrics.herokuapp.com/) -->
+[Live Demo link](https://yinktech.github.io/Schools_search/) 
 
 ## Author
 
