@@ -2,4 +2,61 @@
 .header {
   background: rgb(214, 109, 109);
 }
- 
+
+.slider-img {
+  height: 580px;
+}
+
+.first-content {
+  background: url("../images/slider1.jpg");
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: cover;
+	height: 580px;
+	color: #fff;
+}
+
+.first-content-text {
+	font-size: 20px;
+	font-weight: bolder;
+  padding-top: 150px;
+}
+
+.searchword {
+	background-color: rgba(255, 255, 255, 0.5);
+	width: 70%;
+	border-radius: 10px;
+}
+
+.search-button {
+	background: rgb(25, 25, 214);
+}
+
+.howitworks {
+  text-align:center;
+  display: block;
+}
+
+@media (min-width: 768px) and (max-width: 1023px) {
+  .first-content-text {
+    font-size: 30px;
+		font-weight: bolder;
+		letter-spacing: 1px;
+	}
+
+	.search-button {
+    background: rgb(25, 25, 214);
+	}
+
+	.search-text {
+    font-size: 20px;
+		font-weight: bolder;
+	}
+}
+@media only screen and (min-width: 1024px) {
+  .first-content-text {
+    font-size: 40px;
+		font-weight: bolder;
+		letter-spacing: 1px;
+	}
+}
