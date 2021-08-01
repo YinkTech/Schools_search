@@ -5,23 +5,23 @@
 
 .first-content {
   background: url("../images/slider1.jpg");
-	background-repeat: no-repeat;
-	background-position: center;
-	background-size: cover;
-	height: 580px;
-	color: #fff;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  height: 580px;
+  color: #fff;
 }
 
 .first-content-text {
-	font-size: 20px;
-	font-weight: bolder;
+  font-size: 20px;
+  font-weight: bolder;
   padding-top: 150px;
 }
 
 .searchword {
-	background-color: rgba(255, 255, 255, 0.5);
-	width: 70%;
-	border-radius: 10px;
+  background-color: rgba(255, 255, 255, 0.5);
+  width: 70%;
+  border-radius: 10px;
 }
 
 .howitworks {
@@ -47,18 +47,16 @@
 
 .art-text {
   font-size: 19px;
-	font-weight: bolder;
-	font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif ;
+  font-weight: bolder;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif ;
 
 }
 
 .the-footer {
   background: #000;
-	color: #fff;
-	letter-spacing: 1px;
-
+  color: #fff;
+  letter-spacing: 1px;
 }
-
 
 .location {
   border-color: 1px solid #fff;
@@ -67,55 +65,51 @@
 @media (min-width: 768px) and (max-width: 1023px) {
   .first-content-text {
     font-size: 30px;
-		font-weight: bolder;
-		letter-spacing: 1px;
-	}
+    font-weight: bolder;
+    letter-spacing: 1px;
+  }
 
-	.search-text {
+  .search-text {
     font-size: 20px;
-		font-weight: bolder;
-	}
-	
-	.first-arct-img {
-		width: 100%;
-		
-	}
+    font-weight: bolder;
+  }
 
-	.art-text {
-		font-size: 27px;	
-		
-	}
-	
+  .first-arct-img {
+    width: 100%;
+  }
+
+  .art-text {
+    font-size: 27px;	
+  }
 }
 
 @media only screen and (min-width: 1024px) {
-	.first-content {
-		height: 470px;
-		color: #fff;
-	}
+  .first-content {
+    height: 470px;
+    color: #fff;
+  }
 
-	.first-arct-img {
-		width: 60%;
-	}
+  .first-arct-img {
+    width: 60%;
+  }
 
-	.first-content-text {
-		padding-top: 120px;
-	}
+  .first-content-text {
+    padding-top: 120px;
+  }
 
   .first-content-text {
     font-size: 40px;
-		font-weight: bolder;
-		letter-spacing: 1px;
-	}
+    font-weight: bolder;
+    letter-spacing: 1px;
+  }
 
-	.searchword {
-		width: 60%;
-		border-radius: 10px;
-	}
+  .searchword {
+    width: 60%;
+    border-radius: 10px;
+  }
 
-	.art-text {
-		font-size: 37px;
-		margin-top: 10px;
-	}
-
+  .art-text {
+    font-size: 37px;
+    margin-top: 10px;
+  }
 }
