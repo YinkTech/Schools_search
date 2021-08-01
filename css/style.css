@@ -54,6 +54,14 @@
 
 .the-footer {
   background: #000;
+	color: #fff;
+	letter-spacing: 1px;
+
+}
+
+
+.location {
+  border-color: 1px solid #fff;
 }
 
 @media (min-width: 768px) and (max-width: 1023px) {
