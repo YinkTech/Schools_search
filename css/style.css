@@ -62,6 +62,10 @@
   border-color: 1px solid #fff;
 }
 
+.search-tab {
+  background: #f3f2f2e9;
+}
+
 @media (min-width: 768px) and (max-width: 1023px) {
   .first-content-text {
     font-size: 30px;
