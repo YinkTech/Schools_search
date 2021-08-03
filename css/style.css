@@ -63,7 +63,27 @@
 }
 
 .search-tab {
+  background: f3f2f2e9;
+}
+
+.ui-logo {
+  width: 60px;
+}
+
+.ui-text {
+  font-family: Arial, Helvetica, sans-serif;
+  letter-spacing: 1px;
+}
+
+.deails-text {
   background: #f3f2f2e9;
+  letter-spacing: 2px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.map-img {
+  height: 100%;
+  width: 100%;
 }
 
 @media (min-width: 768px) and (max-width: 1023px) {
