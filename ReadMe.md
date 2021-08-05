@@ -1,6 +1,6 @@
 # MySchool.ng - A School Search Engine
 # HTML & CSS capstone project (MySchool.ng - A School Search Engine)
-A responsive website built following the original project specifications from [Microverse Capstone Project - Directory of Schools](https://www.notion.so/HTML-CSS-capstone-project-Directory-of-Schools-eea352bfaf3e4a83b2917df1f9a4e140)
+A responsive website built following the original project specifications from [Capstone Project - Schools Search Engine](https://www.education.soiconsulting.com/topic/to-do-html-css-capstone-project/)
 
 ### Main page
 ![screenshot](images/homepage.jpg)
