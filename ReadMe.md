@@ -25,7 +25,7 @@ The project has 3 web pages - the main page, the search results page and the det
 
 ## Live Demo
 
-[Live Demo Link](https://yinktech.github.io/Schools_search/index.html/)
+[Live Demo Link](https://yinktech.github.io/Schools_search/index.html)
 
 
 ## Author
