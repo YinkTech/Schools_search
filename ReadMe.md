@@ -1,18 +1,32 @@
-# HTML & CSS capstone project
+# MySchool.ng - A School Search Engine
+# HTML & CSS capstone project (MySchool.ng - A School Search Engine)
+A responsive website built following the original project specifications from [Capstone Project - Schools Search Engine](https://www.education.soiconsulting.com/topic/to-do-html-css-capstone-project/)
 
-> HTML & CSS capstone project: Directory of Schools
+### Main page
+![screenshot](images/homepage.jpg)
 
-<!-- ![screenshot](/images/django-admin.png) -->
+### Search results page
+![screenshot](images/searchpage.jpg)
+
+### Details page
+![screenshot](images/detailspage.jpg)
+
+Project requirements included using semantic HTML tags, CSS selectors, HTML elements box model (margin, padding, width, height), Bootstrap, creating UIs adaptable to different screen sizes using mediaqueries and using industry-standard tools (flexbox) to place elements on the page.
+
+The project was created using the [design](https://www.behance.net/gallery/25563385/PatashuleKE) of Matthew Njuguna & Sam Achola (Behance).
+
+The project has 3 web pages - the main page, the search results page and the details page.
 
 ## Built With
 
-* HTML
-* CSS
-* Bootstrap
+- HTML5
+- CSS3 Media Queries
+- Bootstrap
 
-<!-- ### Live Demo -->
+## Live Demo
 
-<!-- [Live Demo link](https://myprojectusermetrics.herokuapp.com/) -->
+[Live Demo Link](https://yinktech.github.io/Schools_search/index.html/)
+
 
 ## Author
 
@@ -25,7 +39,7 @@
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/Ademola101/School-directory/issues).
+Feel free to check the [issues page](https://yinktech.github.io/Schools_search/index.html).
 
 ## Show your support
 
